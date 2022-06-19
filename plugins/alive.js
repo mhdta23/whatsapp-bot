@@ -57,10 +57,10 @@ Module({
 var menu = `╭═══〘 ${BOT_INFO.split(";")[0]} 〙═══⊷❍
 ┃✩╭──────────────
 ┃✩│
-┃✩│ Owner : ${BOT_INFO.split(";")[1]}
+┃✩│ Owner : mxdta
 ┃✩│ User : ${message.senderName}
 ┃✩│ Mode : ${MODE}
-┃✩│ Server : ${config.HEROKU.APP_NAME}
+┃✩│ Server : heroku
 ┃✩│ Ram: 1024 MB
 ┃✩│ Disk Space: 620 GB
 ┃✩│ Version: ${config.VERSION}
@@ -68,7 +68,7 @@ var menu = `╭═══〘 ${BOT_INFO.split(";")[0]} 〙═══⊷❍
 ┃✩│
 ┃✩│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
 ┃✩│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
-┃✩│   ${BOT_INFO.split(";")[0]}
+┃✩│   xtrembot
 ┃✩│ 
 ┃✩╰───────────────
 ╰═════════════════⊷
